@@ -3,4 +3,12 @@
   margin: 15px;
   padding: 10px;
   border-radius: 15px;
+  max-width: 320px;
+}
+
+.visited{
+  background-color: bisque;
+}
+.non-visited{
+  background-color: aquamarine;
 }

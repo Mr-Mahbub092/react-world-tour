@@ -1,5 +1,8 @@
 .country-container{
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  /* width: 120px; */
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+}
+
+.img-container{
+  width: 100px;
 }
